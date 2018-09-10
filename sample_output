@@ -1,0 +1,8 @@
+
+
+Debasiss-MacBook-Pro:coding_pl debasisnath$ scala readSensor.scala /Users/debasisnath/coding_pl/files/merged-file.csv
+sensor_id, min, avg, max
+(s2,List(30, 64, 80))
+(s1,List(10, 49, 98))
+(s4,List(90, 90, 90))
+Sensor with highest avg humidity: s4
